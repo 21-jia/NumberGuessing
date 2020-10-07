@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Guessing</string>
+    <string name="introduction">Guess the random number between 0 and 100!</string>
+    <string name="btnStart">Start Guessing</string>
+    <string name="btnCheck">Check</string>
+    <string name="btnGiveUp"><u>Give up</u></string>
+    <string name="chance">You have 5 chances to guess!</string>
+    <string name="history"><u>Guess History</u></string>
+</resources>
